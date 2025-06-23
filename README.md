@@ -55,8 +55,6 @@ project/
 
 ├── svm_model_pca.pkl       # Saved trained SVM model
 
-├── pca_model.pkl           # Saved PCA transformer
-
 ├── requirements.txt
 
 └── README.md
